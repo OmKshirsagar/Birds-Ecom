@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", async () => {
-  const response = await fetch("prods.json");
+  const response = await fetch("../ds/prods.json");
   const dataJson = await response.json();
 
   let data = dataJson.data;
