@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Parrot",
+      "price": 7000,
+      "desc": "The Indian Parrot is a great talker that makes them an attractive species of bird.",
+      "img": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFycm90fGVufDB8fDB8fHww"
+    },
+    {
+      "id": 1,
+      "name": "Love Birds",
+      "price": 10000,
+      "desc": "Lovebirds are small, sociable birds that make excellent pets. They are very social and form deep bonds with their owners.",
+      "img": "https://oshiprint.in/image/cache/catalog/poster/new/mqp1456-1100x733.jpeg.webp"
+    },
+    {
+      "id": 2,
+      "name": "Cockatoo",
+      "price": 15000,
+      "desc": "Cockatoos are intelligent, playful, and affectionate birds. They are also known for their loud calls and their ability to mimic speech.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmyzf_eholY7nOBtqWP6c5wHWNdsydHJfnwg&s"
+    },
+    {
+      "id": 3,
+      "name": "Macaw",
+      "price": 20000,
+      "desc": "Macaws are large, colorful parrots that are native to the rainforests of Central and South America. They are known for their vibrant plumage, long tails, and loud voices.",
+      "img": "https://i.pinimg.com/736x/fe/f2/42/fef242a899491f49f390819309f395fe.jpg"
+    },
+    {
+      "id": 4,
+      "name": "African Grey",
+      "price": 25000,
+      "desc": "African Grey Parrots are highly intelligent birds that are known for their ability to mimic human speech. They are also known for their playful and affectionate nature.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMd3RHxvJ7LyaoCRmThjw7Gv3kZIPxZuBvA&s"
+    }
+  ]
+}
